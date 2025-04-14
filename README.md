@@ -4,4 +4,4 @@
 
 **Задача:** Находит банк по любому из идентификаторов или названию
 
-**Стек:** C#, Telegram.Bot, Redis
+**Стек:** Visual Studio 2022: C#, Telegram.Bot, Redis
