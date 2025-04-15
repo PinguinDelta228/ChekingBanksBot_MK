@@ -4,6 +4,6 @@
 
 **Задача:** Находит банк по любому из идентификаторов или названию
 
-**Стек:** Visual Studio 2022: C#, Telegram.Bot, Redis
+**Стек:** Visual Studio Code: Python, pyTelegramBotAPI, Redis
 
 **Ссылка на Miro:** https://miro.com/app/board/uXjVIChri3A=/?share_link_id=932687455432
